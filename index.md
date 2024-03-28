@@ -2,6 +2,7 @@
 title: Home
 description: what do you mean what is it, you're home
 permalink: /
+layout: default
 ---
 
 # setLillie.net
