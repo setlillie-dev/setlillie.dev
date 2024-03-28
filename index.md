@@ -10,7 +10,13 @@ Ok. You're on setLillie.net, how did you get here?
 
 You don't know? That's intriguing.
 
+<p align="center">
+	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
+</p>
 
+
+### About
+Not much to say, this website isn't for anything yet!
 
 ### Contact
 My email is [evan.rodgers@setlillie.net](mailto:evan.rodgers@setlillie.net)
