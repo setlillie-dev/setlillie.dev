@@ -20,5 +20,3 @@ Not much to say, this website isn't for anything yet!
 
 ### Contact
 My email is [evan.rodgers@setlillie.net](mailto:evan.rodgers@setlillie.net)
-
-My Discord username is `setLillie`
