@@ -4,11 +4,11 @@ description: what do you mean what is it, you're home
 permalink: /
 ---
 
-# setLillie.net
+# setLillie.dev
 
-Ok. You're on setLillie.net, how did you get here?
+Ok. You're on setLillie.dev, how did you get here? You should go back to [setLillie.net](https://setlillie.net)
 
-You don't know? That's intriguing.
+You're still here? That's intriguing.
 
 <p align="center">
 	<img src="https://avatars.githubusercontent.com/u/38171335?s=48&v=4" alt="could not load image">
